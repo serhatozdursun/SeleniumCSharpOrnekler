@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeleniumDers1", "SeleniumDe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeleniumDers2", "SeleniumDers2\SeleniumDers2.csproj", "{0BF60E98-23A8-42C2-BC1C-EDC6D7E00722}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumDers3PomModel", "SeleniumDers3PomModel\SeleniumDers3PomModel.csproj", "{F917B3B8-106E-476F-B844-BE877EC8A6A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeleniumDers3PomModel", "SeleniumDers3PomModel\SeleniumDers3PomModel.csproj", "{F917B3B8-106E-476F-B844-BE877EC8A6A1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlibabaFacebookLogin", "..\..\serhatozdursun\SeleniumTutorials\AlibabaFacebookLogin\AlibabaFacebookLogin.csproj", "{EFB6B35C-A0E5-47E7-B824-71A9A66B8DE6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{F917B3B8-106E-476F-B844-BE877EC8A6A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F917B3B8-106E-476F-B844-BE877EC8A6A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F917B3B8-106E-476F-B844-BE877EC8A6A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFB6B35C-A0E5-47E7-B824-71A9A66B8DE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFB6B35C-A0E5-47E7-B824-71A9A66B8DE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFB6B35C-A0E5-47E7-B824-71A9A66B8DE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFB6B35C-A0E5-47E7-B824-71A9A66B8DE6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
